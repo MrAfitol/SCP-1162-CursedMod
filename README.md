@@ -4,6 +4,8 @@
 
 
 A plugin that adds SCP-1162
+
+The idea is taken from the [plugin](https://github.com/SynapseSL/Scp1162)
 ## How download ?
    - *1. Find the SCP SL server config folder*
    
